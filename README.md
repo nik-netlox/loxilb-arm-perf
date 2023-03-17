@@ -2,7 +2,7 @@
 ## How to run
 ./config.sh
 
-## Validation
+## Performance Validation
 ./validation.sh
 
 ## Clean
